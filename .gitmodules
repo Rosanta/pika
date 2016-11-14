@@ -10,3 +10,6 @@
 [submodule "third/slash"]
 	path = third/slash
 	url = https://github.com/baotiao/slash.git
+[submodule "third/tcmalloc"]
+	path = third/tcmalloc
+	url = https://github.com/gperftools/gperftools.git
